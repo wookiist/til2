@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwookiist_github_io=self.webpackChunkwookiist_github_io||[]).push([[692],{8984:function(o){o.exports=JSON.parse('{"allTagsPath":"/TIL/blog/tags","slug":"jaewook","name":"jaewook","count":2,"permalink":"/TIL/blog/tags/jaewook"}')}}]);
